@@ -1,0 +1,41 @@
+
+
+body{
+	background: rgb(234, 237, 239);
+
+}
+
+@media (max-width: 480px){
+	
+}
+#head-logo{
+	font-size: 3em;
+	font-family: bebas, sans-serif;
+	margin: 0 auto;
+	margin-top: 1.5rem;
+	height: 235px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+#row-one{
+	height: 255px;
+	
+}
+#logo{
+
+}
+
+.borders{
+	border:1px solid black;
+}
+
