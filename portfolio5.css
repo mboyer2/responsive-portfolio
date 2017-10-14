@@ -1,0 +1,44 @@
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue'), url('BebasNeue.woff') format('woff');
+}
+
+.borders{
+	border:1px solid black;
+}
+
+.sm-space{
+	height:1rem
+}
+
+.xs-space{
+	height: .5rem;
+}
+
+
+
+
+/*       heading      */
+
+#logo{
+	font-family: bebas neue; 
+	font-size: 4rem;
+	padding-top: -2rem;
+}
+
+
+
+#tagline-row{
+	height:2rem;
+}
+#tagline{
+	font-family: times, serif;
+}
+
+
+.nav-text{
+	font-family: bebas neue, serif; 
+	font-size: 1.5rem;
+}
