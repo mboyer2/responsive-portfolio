@@ -22,6 +22,11 @@ body{
 	background: white;
 }
 
+a{
+	color:black;
+	text-decoration:underline;
+}
+
 
 
 /* ------heading------*/
@@ -30,6 +35,7 @@ body{
 	font-family: bebas neue; 
 	font-size: 4rem;
 	padding-top: -2rem;
+	text-decoration: none;
 }
 #tagline-row{
 	height:2rem;
