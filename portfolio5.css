@@ -18,13 +18,26 @@ body{
 .xs-space{
 	height: .5rem;
 }
+
+.m-space{
+	height:2rem;
+}
 .white{
 	background: white;
 }
 
+.image{
+	width:100%;	
+	height: 100%;
+}
+
 a{
 	color:black;
-	text-decoration:underline;
+	text-decoration:none;
+}
+
+a:hover{
+	color:rgb(181,26,23);
 }
 
 
@@ -58,10 +71,6 @@ a{
 	padding-right: 0rem;
 }
 
-.image{
-	width:100%;	
-	height: 100%;
-}
 
 .content-text{
 	font-family: bebas neue, serif;
@@ -77,9 +86,5 @@ a{
 .read-more{
 	font-size: 1rem;
 	font-family: times, serif;
-	color:red;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> fc015c00af2a49808390b66195410e2a93df3bfe
+	color:rgb(181,26,23);
+
