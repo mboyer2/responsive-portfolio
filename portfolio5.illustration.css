@@ -76,6 +76,11 @@ body{
 	justify-content: center;
 }
 
+.padding{
+	padding-left: 2.3rem;
+	padding-right: 2.3rem;
+}
+
 
 a{
 	color:black;
@@ -116,9 +121,7 @@ p{
 
 /*------Mayan Intro------*/
 
-#mayan-intro{
-	height:40rem;
-}
+
 
 /*------Mayan Poster Photos------*/
 
@@ -130,4 +133,10 @@ p{
 
 .mex-photo{
 	width:100%;
+
 }
+
+.title-padding {
+	padding-left: 1.4rem;
+}
+
