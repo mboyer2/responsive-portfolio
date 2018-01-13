@@ -2,7 +2,7 @@
 font-family: 'Bebas Neue';
 font-style: normal;
 font-weight: normal;
-src: local('Bebas Neue'), url('BebasNeue.woff') format('woff');
+src: local('Bebas Neue'), url('./BebasNeue.otf') format('otf');
 }
 
 body{
