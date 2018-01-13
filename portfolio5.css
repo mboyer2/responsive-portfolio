@@ -9,7 +9,15 @@ body{
 	background:rgb(233,237,239);
 }
 
-
+p{
+	font-family:  Calluna-Light, Georgia, serif;
+	line-height: 2rem;
+	line-height: 3vw;
+	font-weight: 0;
+	margin-bottom: .5rem;
+    font-size: 16px; 
+    font-size: 1.8vw;
+}
 
 .sm-space{
 	height:1rem
@@ -60,7 +68,10 @@ a:hover{
 
 .nav-text{
 	font-family: bebas neue, serif; 
-	font-size: 1.5rem;
+	font-size: 24px;
+	font-size: 4vw;
+
+
 }
 
 /*------Content 1------*/
@@ -71,6 +82,18 @@ a:hover{
 	padding-right: 0rem;
 }
 
+.head-content{
+	font-family:  Calluna-Light, Georgia, serif;
+	line-height: 2rem;
+	line-height: 3vw;
+	font-weight: 600;
+	font-size: 1.1rem;
+	letter-spacing: .02rem;
+	padding-left: 2.3rem;
+	padding-right: 2.3rem;
+	justify-content: center;
+	font-size: 1.8vw;
+}
 
 .content-text{
 	font-family: bebas neue, serif;
