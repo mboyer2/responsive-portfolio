@@ -2,7 +2,7 @@
 font-family: 'Bebas Neue';
 font-style: normal;
 font-weight: normal;
-src: local('Bebas Neue'), url('./BebasNeue.otf') format('otf');
+src: url('BebasNeue.otf') format('otf');
 }
 
 body{
@@ -53,7 +53,7 @@ a:hover{
 /* ------heading------*/
 
 #logo{
-	font-family: bebas neue; 
+	font-family: Bebas Neue, serif; 
 	font-size: 4rem;
 	padding-top: -2rem;
 	text-decoration: none;
