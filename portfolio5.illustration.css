@@ -2,9 +2,9 @@
 font-family: 'Bebas Neue';
 font-style: normal;
 font-weight: normal;
-src: local('Bebas Neue'), url('BebasNeue.otf') format('otf');
+src: url('BebasNeue.otf') format('opentype'),
+	url('fonts/bebasneue-webfont.woff') format('woff');
 }
-   
 
 body{
 	background:rgb(233,237,239);
